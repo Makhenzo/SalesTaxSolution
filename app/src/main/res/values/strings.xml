@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SalesTax</string>
+    <string name="headerMsg">Welcome To TRACKMATIC Store</string>
+    <string name="output">OUTPUT</string>
+    <string name="quantity">Select Number of Item</string>
+    <string name="addItems">Add items in the basket</string>
+    <string name="cost">CAlCULATE-COST</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="importStatus">Imported?</string>
+    <string name="headerLogo">logo</string>
+    <string name="shelf">Choose Product Shelf</string>
+    <string name="prodHint">Enter Product Description</string>
+    <string name="priceHint">Enter Product Price</string>
+</resources>
